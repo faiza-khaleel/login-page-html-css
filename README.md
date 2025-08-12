@@ -10,6 +10,7 @@ Form Validation: Basic client-side form validation to ensure fields aren't left 
 
 🛠️ Technologies Used
 HTML: The core structure of the web page.
+
 CSS: For styling and layout.
 
 💻 How to Use
